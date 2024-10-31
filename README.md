@@ -36,7 +36,6 @@ Greetings, fellow developers! I'm Sanjay Prajapati, a passionate Full Stack Web 
 
 - 🧙‍♂️ [LinkedIn](https://www.linkedin.com/in/sanjaypra003)
 - 🐦 [Twitter](https://twitter.com/SanjayPra300)
-- 🏰 [Portfolio](https://sanjayp.dev)
 
 ## 🌈 Let's Create Magic Together
 
